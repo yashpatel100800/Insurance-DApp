@@ -1,4 +1,7 @@
 ## Github Repo Link:- https://github.com/yashpatel100800/Insurance-DApp.git
+# Team Members:
+- **Diya Shah**: 813542917 (diyaashah@csu.fullerton.edu)
+- **Yash Patel**: 824754618 (yashpatel100800@csu.fullerton.edu)
 
 
 # HealthCare Chain - Blockchain Health Insurance Platform
