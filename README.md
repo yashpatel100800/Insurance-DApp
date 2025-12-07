@@ -15,6 +15,20 @@ A decentralized health insurance platform built on Ethereum blockchain using Sol
 - **Analytics**: Real-time insights into policies, claims, and revenue
 - **Monthly Subscriptions**: Support for both one-time annual and monthly premium payments
 
+### For Users
+1. Browse insurance plans
+2. Purchase a policy (annual or monthly)
+3. Submit claims with medical documents
+4. Track claim status
+5. Pay monthly premiums
+
+### For Admins
+1. Manage insurance plans
+2. Process claims
+3. Authorize doctors
+4. Fund contract for payouts
+5. View analytics and statistics
+
 ## Technology Stack
 
 - **Smart Contracts**: Solidity ^0.8.19
@@ -178,21 +192,6 @@ The main contract is \`HealthInsuranceDApp.sol\` which includes:
 - Access control (Owner, Authorized Doctors)
 - Emergency pause functionality
 
-## Usage
-
-### For Users
-1. Browse insurance plans
-2. Purchase a policy (annual or monthly)
-3. Submit claims with medical documents
-4. Track claim status
-5. Pay monthly premiums
-
-### For Admins
-1. Manage insurance plans
-2. Process claims
-3. Authorize doctors
-4. Fund contract for payouts
-5. View analytics and statistics
 
 ## Testing
 
