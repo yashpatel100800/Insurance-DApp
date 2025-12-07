@@ -214,9 +214,6 @@ cd web3
 npx hardhat run scripts/deploy.js --network holesky
 \`\`\`
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Support
 
