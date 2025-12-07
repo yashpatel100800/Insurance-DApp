@@ -201,20 +201,4 @@ cd web3
 npx hardhat test
 \`\`\`
 
-## Deployment to Testnet
 
-### Holesky Testnet
-
-1. Get test ETH from faucet
-2. Update \`web3/.env\` with your private key
-3. Deploy:
-
-\`\`\`bash
-cd web3
-npx hardhat run scripts/deploy.js --network holesky
-\`\`\`
-
-
-## Support
-
-For issues and questions, please open an issue on GitHub.
